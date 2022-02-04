@@ -1,0 +1,6 @@
+*.sdf
+*.suo
+*.db
+*.vcxproj.user
+.vs/
+tmp/
